@@ -124,6 +124,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rypizani/rypizani/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/rypizani/rypizani/blob/918ba8f3d9ab9cab24000dc5bf4ae21025809612/snake.yml" alt="Snake animation" />
 
 ###
